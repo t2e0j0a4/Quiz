@@ -1,7 +1,6 @@
 html,body{
     width: 100%;
     max-width: 100%;
-    
 }
 
 #myVideo {
@@ -16,7 +15,7 @@ html,body{
 
 #root{
     width: 100%;
-    max-width: 70%;
+    max-width: 90%;
     margin: auto;
 }
 
@@ -85,6 +84,8 @@ html,body{
     font-family: 'Poppins', sans-serif;
     margin: 5px 5px;
     color: white;
+    background-color: rgba(0, 0, 0, 0.7);
+    text-align: center;
 }
 
 .difficulty{
